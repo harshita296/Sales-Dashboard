@@ -4,7 +4,7 @@ An interactive e-commerce sales analytics dashboard built with **Microsoft Power
 
 ## Dashboard Preview
 
-![David E-Commerce Sales Dashboard](dashboard screenshot.png)
+![David E-Commerce Sales Dashboard](dashboard_screenshot.png)
 
 
 ## Project Objectives
