@@ -6,7 +6,6 @@ An interactive e-commerce sales analytics dashboard built with **Microsoft Power
 
 ![David E-Commerce Sales Dashboard](dashboard-screenshot.png)
 
-> **Note:** Add your dashboard screenshot to this repository and name it `dashboard-screenshot.png`, or update the image path above to match your screenshot filename.
 
 ## Project Objectives
 
@@ -115,7 +114,7 @@ These observations describe the screenshot only. They should be rechecked after 
 - Improve accessibility with clear labels, consistent formatting, and sufficient contrast.
 - Add data validation checks and document the source dataset.
 
-## Author
+
 
 **Your Name**  
 Add your LinkedIn and GitHub profile links here.
